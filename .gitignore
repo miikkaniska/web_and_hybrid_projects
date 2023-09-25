@@ -1,11 +1,3 @@
-#currency folder
-currency/.gitignore
-currency/App.js
-currency/app.json
-currency/babel.config.js
-currency/package-lock.json
-currency/package.json
-currency/assets/adaptive-icon.png
-currency/assets/favicon.png
-currency/assets/icon.png
-currency/assets/splash.png
+currency/
+calories/
+heart_rate_limits/
