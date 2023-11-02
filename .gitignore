@@ -12,15 +12,4 @@ currency/assets/splash.png
 
 heart_rate_limits/
 calories/
-firebaselecture/.gitignore
-firebaselecture/App.js
-firebaselecture/app.json
-firebaselecture/babel.config.js
-firebaselecture/package-lock.json
-firebaselecture/package.json
-firebaselecture/assets/adaptive-icon.png
-firebaselecture/assets/favicon.png
-firebaselecture/assets/icon.png
-firebaselecture/assets/splash.png
-firebaselecture/firebase/config.js
-firebaselecture/helper/Functions.js
+
